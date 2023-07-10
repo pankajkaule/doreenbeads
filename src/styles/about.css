@@ -1,0 +1,74 @@
+.about {
+
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.aboutpanel {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    overflow-y: auto;
+}
+
+.listpanel {
+    flex: 1;
+    overflow-y: auto;
+}
+
+.filterpanel {
+    width: 320px;
+    overflow-y: auto;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.searchbar {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    padding: 1.5rem;
+}
+
+.searchbaricon {
+    color: blue;
+    margin-right: 2rem;
+}
+
+.searchbar input {
+    font-size: 1rem;
+    outline: none;
+    border: none;
+    width: 1000px;
+}
+
+.FilterPaneltext {
+    padding: 2rem;
+    background-color: antiquewhite;
+}
+
+.FilterPanel {
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.label {
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.listpanel{
+padding: 16px;
+}
+.navbar{
+background-color: #2874f0;
+}
+.container{
+color: white;
+
+}
+.pricefilter{
+margin-top: 20px;
+}

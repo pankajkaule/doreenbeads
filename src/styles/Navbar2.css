@@ -1,0 +1,27 @@
+.Navbar2{
+display:  flex;
+justify-content: space-between;
+margin: auto;
+padding: 10px 30px 20px 30px;
+}
+.searchicon{
+/* font-size: 40px; */
+}
+.input input{
+width: 400px;
+height: 40px;
+border: 2px solid #B22072;
+}
+.input{
+background-color: #B22072;
+}
+
+
+
+
+@media (max-width:600px) {
+    .Navbar2 {
+        display: none;
+    }
+
+}

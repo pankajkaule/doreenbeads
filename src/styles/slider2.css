@@ -1,0 +1,29 @@
+.sliderimage2 img{
+width: 170px;
+height: 180px;
+}
+.sliderimage2{
+width: 170px;
+height: 235px;
+background-color: white;
+}
+.current_price{
+color: #e60044;
+font-size: 20px;
+
+}
+.intial_price{
+color: #cccccc;
+font-size: 20px;
+text-decoration: line-through;
+}
+:root {
+  --swiper-navigation-color: rgb(143, 137, 137);
+
+}
+.swiper-button-next,
+.swiper-button-prev {
+    background-color: #B22072;
+    /* background-color: rgba(255, 255, 255, 0.5); */
+   
+}

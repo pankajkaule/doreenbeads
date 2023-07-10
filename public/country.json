@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "country": "USD",
+        "langauge": "English"
+    },
+    {
+        "id": 2,
+        "country": "AUD",
+        "langauge": "English"
+    },
+    {
+        "id": 3,
+        "country": "GBP",
+        "langauge": "France"
+    },
+    {
+        "id": 4,
+        "country": "CUD",
+        "langauge": "Deutch"
+    },
+    {
+        "id": 5,
+        "country": "EUR",
+        "langauge": "English"
+    },
+    {
+        "id": 6,
+        "country": "JPY",
+        "langauge": "English"
+    },
+    {
+        "id": 7,
+        "country": "RUB",
+        "langauge": "Russian"
+    }
+]

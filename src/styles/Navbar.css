@@ -1,0 +1,26 @@
+.Navbar{
+display: flex;
+flex-direction: row;
+justify-content: end;
+padding: 10px;
+}
+.countryDropdown{
+margin-left: 10px;
+margin-right: 10px;
+}
+.countryoption{
+padding: 200px;
+}
+
+.country{
+width: 100px;
+}
+.Contacttext{
+margin-left: 20px;
+margin-right: 20px;
+}
+.Contactlogo{
+background-color: rgb(192, 188, 188);
+padding: 2px;
+border-radius: 60px;
+}

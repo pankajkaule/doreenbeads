@@ -1,0 +1,35 @@
+
+.titlehead h1 {
+    margin: 0px 20px 0px 20px;
+    padding: 2px 0px 2px 0px;
+
+}
+.products1 {
+/* margin-top: 20px; */
+margin-bottom: 20px;
+    display: grid;
+    /* grid-template-columns: repeat(auto-fill, minmax(160px, 2fr)); */
+ grid-template-columns: 40px 350px ;
+/* height: 350px; */
+justify-content: space-between;
+padding-right: 130px;
+}
+
+.productimage1 img{
+width: 470px;
+height: 200px;
+border: 1px solid black;
+margin-top: 10px;   
+}
+
+.products1 li{
+   list-style: none;
+}
+
+.product {
+    /* width: 250px; */
+}
+.grid img{
+width: 250px;
+height: 250px;
+}

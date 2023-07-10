@@ -1,0 +1,72 @@
+.footers{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+border-top: 1px solid rgb(180, 176, 176);
+margin-top: 70px;
+padding: 50px 50px 30px 50px;
+}
+.footer{
+/* width: 12%; */
+}
+.footerend{
+width: 25%;
+}
+.heads{
+font-size: 18px;
+font-weight: 400;
+}
+.footer ul li{
+line-height: 20px;
+font-size: 14px;
+list-style: none;
+}
+.fontawesome ul li{
+list-style: none;
+margin-right: 15px;
+margin-top: 15px;
+}
+.fontawesome ul {
+display: flex;
+}
+
+.fa-brands{
+font-size: 50px;
+}
+.footerendtext{
+width: 90%;
+}
+.fa-pinterest{
+color: #D3393B;
+}
+.fa-facebook{
+color:#1877f2;
+}
+.fa-youtube{
+color: #ee2428;
+}
+.form{
+margin-top: 10px;
+}
+.Copyright{
+font-size: 20px;
+text-align: center;
+padding-bottom: 50px;
+}
+.forminput input{
+height: 30px;
+width: 180px;
+}
+
+.forminput button{
+background-color: #B22072;
+height: 34px;
+color: white;
+border: 1px solid #B22072;
+border-top-right-radius:2px;
+border-bottom-right-radius:2px;
+
+}
+.subscribebtn{
+padding: 5px;
+}

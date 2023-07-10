@@ -1,0 +1,92 @@
+.weekenddeals {
+    height: 280px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.weekenddeal {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(197, 29, 40);
+
+}
+
+.titlehead1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.cattitle1 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.weekenddeal {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.weekendslider {
+    width: 75%;
+}
+
+.timer {
+    color: white;
+    text-align: center;
+    font-size: 22px;
+}
+
+.dealstitle {
+    margin-top: 30px;
+}
+
+.time {
+    font-weight: bold;
+    font-size: 24px;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.timercomponent {
+    margin-top: 30px;
+}
+
+.timerintext {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.view_btn button {
+    padding: 15px;
+    font-size: 22px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.view_btn button a {
+    text-decoration: none;
+    color: black;
+}
+
+.weekendslider {
+    margin-top: 20px;
+}
+
+
+@media (max-width:600px) {
+    .weekenddeal {
+        display: flex;
+        flex-direction: column;
+
+    }
+}

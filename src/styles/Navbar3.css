@@ -1,0 +1,31 @@
+.categeory ul {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+@media (max-width:600px) {
+    .cat {
+        display: none;
+    }
+
+}
+
+.categeory ul li {
+    list-style: none;
+}
+
+.categeory ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.categeory {
+    background-color: #B22072;
+    padding: 20px;
+}
+
+.cat {
+    padding: 30px;
+}

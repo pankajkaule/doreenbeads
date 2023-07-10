@@ -1,0 +1,16 @@
+.sliderimage img{
+width: 1000px;
+height: 350px;
+}
+.Swiper{
+color: black;
+}
+:root {
+  --swiper-navigation-color: rgb(155, 152, 152);
+}
+.swiper-button-next,
+.swiper-button-prev {
+    background-color: white;
+    /* background-color: rgba(255, 255, 255, 0.5); */
+   
+}
